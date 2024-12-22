@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: purple;
+}
+
+h1 {
+  color:red;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<h1>Happy Birthday</h1>
+<p>Happy Birthday mama I wish you a very happy birthday have a great year ahead with lots of love and happiness on your 42 birthday with lots of wishes on your special day. Since I was born in my life you made me happy that is why this l made this small gift for you and it will last for ever on the internet.</p>
+
+</body>
+</html>
+
